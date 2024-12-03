@@ -1,4 +1,3 @@
-//test
 #include <DS3231.h>//Memanggil RTC3231 Library
 #include <Wire.h>  // i2C Conection Library
 #include <LiquidCrystal.h> //Libraries
